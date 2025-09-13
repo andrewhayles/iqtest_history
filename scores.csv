@@ -1,0 +1,416 @@
+Date,Timed,M,V,N,S,L,Cold,Recent,Cooijmans,Ivec,Betts,IQexams,Backlund,Joshi,Dorsey,Predavec,Jouve,Kutle,Prousalis,Scillitani,Udriste,OtherAuthor,Test,Score,Author,TestType,TimedUntimed,ColdHot,counter,AuthorCode,TestTypeCode
+2018-04-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Vocabulary IQ Test,96,Other,Verbal,Timed,Hot Months,1,14,2
+2018-09-02,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,IHIQS.org 135 & 147,141,Other,Mixed,Timed,Hot Months,2,14,1
+2018-09-16,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FO38 - FOCUS (S),120,IQexams,Spatial,Timed,Hot Months,3,4,4
+2018-09-16,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MIF14 - mini FOCUS (S),121,IQexams,Spatial,Timed,Hot Months,4,4,4
+2018-09-16,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VER30 - VERBIQ (V),123,IQexams,Verbal,Timed,Hot Months,5,4,2
+2018-09-16,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,CX32 - COMPLEX (M),125,IQexams,Mixed,Timed,Hot Months,6,4,1
+2018-09-16,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DS30 - DeepSpeed (N),128,IQexams,Numerical,Timed,Hot Months,7,4,3
+2018-09-16,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NX32 - NUMIX (N),144,IQexams,Numerical,Timed,Hot Months,8,4,3
+2018-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TOOO2 - Triple O2 (S),114,IQexams,Spatial,Timed,Hot Months,9,4,4
+2018-09-17,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PINOT34 - Patterns In Numerical Observation Test (N),117,IQexams,Numerical,Timed,Hot Months,10,4,3
+2018-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TRA31 - TransendIQ (S),122,IQexams,Spatial,Timed,Hot Months,11,4,4
+2018-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M18 - mini18 (S),123,IQexams,Spatial,Timed,Hot Months,12,4,4
+2018-09-17,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ARIQ3 - ArithmetIQ IQ-test (N),128,IQexams,Numerical,Timed,Hot Months,13,4,3
+2018-09-17,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NB40 - Numba (N),135,IQexams,Numerical,Timed,Hot Months,14,4,3
+2018-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TERO41 - TERO41 IQ-test (S),137,IQexams,Spatial,Timed,Hot Months,15,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MIF14 - mini FOCUS (S),106,IQexams,Spatial,Timed,Hot Months,16,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOUNT33 - mountain (S),114,IQexams,Spatial,Timed,Hot Months,17,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LE33 - Level (S),123,IQexams,Spatial,Timed,Hot Months,18,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HU22 - HUMANIQ (S),127,IQexams,Spatial,Timed,Hot Months,19,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TRI37 - Tribute (S),127,IQexams,Spatial,Timed,Hot Months,20,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,AR20 - Arrow (S),131,IQexams,Spatial,Timed,Hot Months,21,4,4
+2018-09-18,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HI21 - HINT (N),133,IQexams,Numerical,Untimed,Hot Months,22,4,3
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SA30 - Spatial Analogies 30 (S),134,IQexams,Spatial,Timed,Hot Months,23,4,4
+2018-09-18,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,asl36 - AstroLab36 (S),134,IQexams,Spatial,Timed,Hot Months,24,4,4
+2018-09-18,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,REL30 - RELIGHT (M),139,IQexams,Mixed,Timed,Hot Months,25,4,1
+2018-09-18,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PINOT34 - Patterns In Numerical Observation Test (N),148,IQexams,Numerical,Timed,Hot Months,26,4,3
+2018-09-19,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NUIQ32 - numeriq32 (N),117,IQexams,Numerical,Timed,Hot Months,27,4,3
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,62ssol - 62 same (S),123,IQexams,Spatial,Timed,Hot Months,28,4,4
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZG40 - Zego (S),130,IQexams,Spatial,Timed,Hot Months,29,4,4
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,AG32 - Andromeda (S),131,IQexams,Spatial,Timed,Hot Months,30,4,4
+2018-09-19,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,logix25 - LogicaX (M),133,IQexams,Mixed,Timed,Hot Months,31,4,1
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Lux30 - Luxus (S),133,IQexams,Spatial,Timed,Hot Months,32,4,4
+2018-09-19,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DS30 - DeepSpeed (N),134,IQexams,Numerical,Timed,Hot Months,33,4,3
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SA30 - Spatial Analogies 30 (S),137,IQexams,Spatial,Timed,Hot Months,34,4,4
+2018-09-19,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ETS32 - Evolutionary Task Set 2^5 (S),139,IQexams,Spatial,Timed,Hot Months,35,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,hdIQ37 - houdinIQ37 (S),128,IQexams,Spatial,Timed,Hot Months,36,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DIA31 - Diameter (S),128,IQexams,Spatial,Timed,Hot Months,37,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BLITE36 - Black White Spatial Test (S),132,IQexams,Spatial,Timed,Hot Months,38,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HRRT38 - High Range Reasoning Test (S),134,IQexams,Spatial,Timed,Hot Months,39,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AXIS33 - AXIS (S),137,IQexams,Spatial,Timed,Hot Months,40,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOM30 - Momentum (S),150,IQexams,Spatial,Timed,Hot Months,41,4,4
+2018-09-20,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OCHE30 - Ocular Coordination Heuristics Examination (S),152,IQexams,Spatial,Timed,Hot Months,42,4,4
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,LoL228 - L.o.L.2_28 (S),121,IQexams,Spatial,Timed,Hot Months,43,4,4
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LABCUB - LABCUB IQ-test (S),123,IQexams,Spatial,Timed,Hot Months,44,4,4
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,CHROME - CHROME30 (S),125,IQexams,Spatial,Timed,Hot Months,45,4,4
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RAD32 - RADIUS32 IQ-test (S),126,IQexams,Spatial,Timed,Hot Months,46,4,4
+2018-09-21,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,URAN42 - URAN IQ-test (M),128,IQexams,Mixed,Timed,Hot Months,47,4,1
+2018-09-21,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NOZD45 - NOZD IQ-test (M),134,IQexams,Mixed,Timed,Hot Months,48,4,1
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LS30 - Logica Stella 30 (S),135,IQexams,Spatial,Timed,Hot Months,49,4,4
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,LOL24 - Last-of-Logics IQ-test (S),135,IQexams,Spatial,Timed,Hot Months,50,4,4
+2018-09-21,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VL130 - VerbaLectIQ_1 (V),140,IQexams,Verbal,Timed,Hot Months,51,4,2
+2018-09-21,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PMA32E - PMA-32_2E (S),141,IQexams,Spatial,Timed,Hot Months,52,4,4
+2018-09-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M18 - mini18 (S),131,IQexams,Spatial,Timed,Hot Months,53,4,4
+2018-09-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOUNT33 - mountain (S),132,IQexams,Spatial,Timed,Hot Months,54,4,4
+2018-09-22,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,CX32 - COMPLEX (M),132,IQexams,Mixed,Timed,Hot Months,55,4,1
+2018-09-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FO38 - FOCUS (S),146,IQexams,Spatial,Timed,Hot Months,56,4,4
+2018-09-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SCO37 - SCOPE (S),150,IQexams,Spatial,Timed,Hot Months,57,4,4
+2018-09-23,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TOOO2 - Triple O2 (S),127,IQexams,Spatial,Timed,Hot Months,58,4,4
+2018-09-23,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LE33 - Level (S),132,IQexams,Spatial,Timed,Hot Months,59,4,4
+2018-09-23,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,62ssol - 62 same (S),140,IQexams,Spatial,Timed,Hot Months,60,4,4
+2018-09-23,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TRA31 - TransendIQ (S),143,IQexams,Spatial,Timed,Hot Months,61,4,4
+2018-10-02,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VORTEX30 - VORTEX Verbal Puzzle (V),121,IQexams,Verbal,Untimed,Cold Months,62,4,2
+2018-10-02,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LABCUB - LABCUB IQ-test (S),138,IQexams,Spatial,Timed,Cold Months,63,4,4
+2018-10-02,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BP31 - Bak3s Pr1m3 (N),138,IQexams,Numerical,Untimed,Cold Months,64,4,3
+2018-10-03,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NUM4D - Numina4D (N),128,IQexams,Numerical,Untimed,Cold Months,65,4,3
+2018-10-03,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,URAN42 - URAN IQ-test (M),136,IQexams,Mixed,Timed,Cold Months,66,4,1
+2018-10-03,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LS30 - Logica Stella 30 (S),140,IQexams,Spatial,Timed,Cold Months,67,4,4
+2018-10-04,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VIP50 - VIPER (N),136,IQexams,Numerical,Timed,Cold Months,68,4,3
+2018-10-04,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOL30 - MOLECULE (N),139,IQexams,Numerical,Untimed,Cold Months,69,4,3
+2018-10-05,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NB40 - Numba (N),148,IQexams,Numerical,Timed,Cold Months,70,4,3
+2018-10-07,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,AdSub ,144,Dorsey,Numerical,Untimed,Cold Months,71,7,3
+2018-10-07,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,MultDiv ,150,Dorsey,Numerical,Untimed,Cold Months,72,7,3
+2018-10-08,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Reduction Riddles ,150,Dorsey,Verbal,Untimed,Cold Months,73,7,2
+2018-10-11,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GRIT,133,Cooijmans,Mixed,Untimed,Cold Months,74,1,1
+2018-10-11,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,EMC,162,Other,Spatial,Untimed,Cold Months,75,14,4
+2018-10-12,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Alphabet ,151,Dorsey,Verbal,Untimed,Cold Months,76,7,2
+2018-10-12,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SYM60 - Symmetries (M),153,IQexams,Mixed,Untimed,Cold Months,77,4,1
+2018-10-15,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,AR20 - Arrow (S),126,IQexams,Spatial,Timed,Cold Months,78,4,4
+2018-10-15,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OCHE30 - Ocular Coordination Heuristics Examination (S),141,IQexams,Spatial,Timed,Cold Months,79,4,4
+2018-10-17,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VER30 - VERBIQ (V),136,IQexams,Verbal,Timed,Cold Months,80,4,2
+2018-10-18,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M18 - mini18 (S),131,IQexams,Spatial,Timed,Cold Months,81,4,4
+2018-10-18,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DS30 - DeepSpeed (N),137,IQexams,Numerical,Timed,Cold Months,82,4,3
+2018-10-22,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,EAT38 - EAZY (M),143,IQexams,Mixed,Timed,Cold Months,83,4,1
+2018-10-26,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Mensa Wonderlic 38/50 (134),134,Other,Mixed,Timed,Cold Months,84,14,1
+2018-10-28,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ENSDT By Marco Ripa ,147,Other,Spatial,Untimed,Cold Months,85,14,4
+2018-10-29,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FU30 - FUSE (S),133,IQexams,Spatial,Timed,Cold Months,86,4,4
+2018-11-07,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,DO40 - DOMINOS-TRACK (S),151,IQexams,Spatial,Untimed,Cold Months,87,4,4
+2018-11-09,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,LoL228 - L.o.L.2_28 (S),132,IQexams,Spatial,Timed,Cold Months,88,4,4
+2018-11-09,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST22 - Skillr (S),149,IQexams,Spatial,Timed,Cold Months,89,4,4
+2018-11-10,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZCFIT42 - Zolly:s Culture Fair Intelligence Test (S),133,IQexams,Spatial,Timed,Cold Months,90,4,4
+2018-11-10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Cosmic ,140,Dorsey,Spatial,Untimed,Cold Months,91,7,4
+2018-11-18,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Oasis,135,Dorsey,Spatial,Untimed,Cold Months,92,7,4
+2018-11-23,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SSS30 - Symbolic Spatial Scale (S),162,IQexams,Spatial,Untimed,Cold Months,93,4,4
+2018-11-24,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CBQ40 - CEREBRIQ (N),149,IQexams,Numerical,Untimed,Cold Months,94,4,3
+2018-11-26,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,asl36 - AstroLab36 (S),141,IQexams,Spatial,Timed,Cold Months,95,4,4
+2018-11-27,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOM30 - Momentum (S),152,IQexams,Spatial,Timed,Cold Months,96,4,4
+2018-11-28,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Verba 66 by Mislav Predavec ,148,Predavec,Verbal,Untimed,Cold Months,97,8,2
+2018-11-30,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Logima Strictica 24,130,Other,Spatial,Untimed,Cold Months,98,14,4
+2018-11-30,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Logima Strictica 60,138,Other,Spatial,Untimed,Cold Months,99,14,4
+2018-11-30,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Logima Strictica 36,141,Other,Spatial,Untimed,Cold Months,100,14,4
+2018-12-03,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZCFIT42 - Zolly:s Culture Fair Intelligence Test (S),137,IQexams,Spatial,Timed,Cold Months,101,4,4
+2018-12-07,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TERO41 - TERO41 IQ-test (S),148,IQexams,Spatial,Timed,Cold Months,102,4,4
+2018-12-11,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CRON40 - ChronIQ (N),163,IQexams,Numerical,Timed,Cold Months,103,4,3
+2018-12-21,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,MRI,157,Other,Spatial,Untimed,Cold Months,104,14,4
+2018-12-22,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,PatNum ,144,Dorsey,Numerical,Untimed,Cold Months,105,7,3
+2018-12-22,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ISPE Self,147,Other,Numerical,Untimed,Cold Months,106,14,3
+2019-01-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Spectra ,152,Dorsey,Mixed,Untimed,Cold Months,107,7,1
+2019-01-03,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,RAD32 - RADIUS32 IQ-test (S),142,IQexams,Spatial,Timed,Cold Months,108,4,4
+2019-01-09,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Algebrica by Mislav Predavec ,139,Predavec,Numerical,Untimed,Cold Months,109,8,3
+2019-01-12,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SLSE I by Jonathan Wai ,141,Other,Numerical,Untimed,Cold Months,110,14,3
+2019-01-20,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SYM60 - Symmetries (M),153,IQexams,Numerical,Untimed,Cold Months,111,4,3
+2019-01-24,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,LSHR Light by Ivan Ivec ,147,Ivec,Spatial,Untimed,Cold Months,112,2,4
+2019-01-30,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,VAULT by Julien Arpin ,154,Other,Verbal,Untimed,Cold Months,113,14,2
+2019-01-31,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZUN Test,140,Backlund,Numerical,Untimed,Cold Months,114,5,3
+2019-02-09,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CL60 - COGITATUS LOGICAE (S),157,IQexams,Spatial,Untimed,Cold Months,115,4,4
+2019-02-11,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TRI37 - Tribute (S),130,IQexams,Spatial,Timed,Cold Months,116,4,4
+2019-02-12,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ETS32 - Evolutionary Task Set 2^5 (S),139,IQexams,Spatial,Timed,Cold Months,117,4,4
+2019-02-12,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AG32 - Andromeda (S),139,IQexams,Spatial,Timed,Cold Months,118,4,4
+2019-02-12,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Lux30 - Luxus (S),146,IQexams,Spatial,Timed,Cold Months,119,4,4
+2019-02-13,1,1,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZDK38 - Zundark (M),157,IQexams,Mixed,Timed,Cold Months,120,4,1
+2019-02-14,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,FU30 - FUSE (S),157,IQexams,Spatial,Timed,Cold Months,121,4,4
+2019-02-16,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HU22 - HUMANIQ (S),132,IQexams,Spatial,Timed,Cold Months,122,4,4
+2019-02-17,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Italian High IQ Society Qualification test by Randy Myers ,141,Other,Spatial,Untimed,Cold Months,123,14,4
+2019-02-17,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Goblin Test,140,Backlund,Mixed,Untimed,Cold Months,124,5,1
+2019-02-19,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SAM Light by Naoki Kouda ,151,Other,Spatial,Untimed,Cold Months,125,14,4
+2019-02-23,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NX32 - NUMIX (N),163,IQexams,Numerical,Timed,Cold Months,126,4,3
+2019-02-27,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,The Phi Test by Theodosis Prousalis ,140,Prousalis,Mixed,Untimed,Cold Months,127,11,1
+2019-02-27,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CIT4E,140,Cooijmans,Mixed,Untimed,Cold Months,128,1,1
+2019-03-01,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CIT3E,138,Cooijmans,Mixed,Untimed,Cold Months,129,1,1
+2019-03-01,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HYP60 - Hyperspatial (S),152,IQexams,Spatial,Untimed,Cold Months,130,4,4
+2019-03-02,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,CIT5,138,Cooijmans,Mixed,Untimed,Cold Months,131,1,1
+2019-03-05,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TFG Verbal,133,Cooijmans,Verbal,Untimed,Cold Months,132,1,2
+2019-03-05,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TFG Numerical,135,Cooijmans,Numerical,Untimed,Cold Months,133,1,3
+2019-03-05,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TFG2016,140,Cooijmans,Mixed,Untimed,Cold Months,134,1,1
+2019-03-05,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TFG N + S,151,Cooijmans,Mixed,Untimed,Cold Months,135,1,1
+2019-03-05,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TFG ST&H,163,Cooijmans,Spatial,Untimed,Cold Months,136,1,4
+2019-03-08,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PIGS1,135,Cooijmans,Mixed,Untimed,Cold Months,137,1,1
+2019-03-10,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BEHEAD,137,Cooijmans,Mixed,Untimed,Cold Months,138,1,1
+2019-03-16,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SLSE II by Jonathan Wai ,140,Other,Numerical,Untimed,Cold Months,139,14,3
+2019-03-18,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LCFIT39 - Lawson Culture Fair IQ Test (S),144,IQexams,Spatial,Timed,Cold Months,140,4,4
+2019-03-19,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,SARGASSO,131,Cooijmans,Mixed,Untimed,Cold Months,141,1,1
+2019-03-19,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,BONSAI,142,Cooijmans,Mixed,Untimed,Cold Months,142,1,1
+2019-03-27,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,MARATHON N,136,Cooijmans,Numerical,Untimed,Cold Months,143,1,3
+2019-03-27,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,MARATHON N+S,136,Cooijmans,Mixed,Untimed,Cold Months,144,1,1
+2019-03-27,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,MARATHON S,136,Cooijmans,Spatial,Untimed,Cold Months,145,1,4
+2019-03-27,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,MARATHON,141,Cooijmans,Mixed,Untimed,Cold Months,146,1,1
+2019-03-27,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,MARATHON V,147,Cooijmans,Verbal,Untimed,Cold Months,147,1,2
+2019-03-31,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RIP,152,Cooijmans,Mixed,Untimed,Cold Months,148,1,1
+2019-03-31,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NARCISSUS,156,Cooijmans,Mixed,Untimed,Cold Months,149,1,1
+2019-03-31,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,TTEAT,157,Cooijmans,Verbal,Untimed,Cold Months,150,1,2
+2019-04-02,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PARANOIAC,149,Cooijmans,Mixed,Untimed,Hot Months,151,1,1
+2019-04-05,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BP31 - Bak3s Pr1m3 (N),148,IQexams,Numerical,Untimed,Hot Months,152,4,3
+2019-04-06,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NUIQ32 - numeriq32 (N),161,IQexams,Numerical,Timed,Hot Months,153,4,3
+2019-04-10,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,FINALTEST2013,140,Cooijmans,Verbal,Untimed,Hot Months,154,1,2
+2019-04-10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,COLT2,152,Cooijmans,Mixed,Untimed,Hot Months,155,1,1
+2019-04-10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,HAMMER,152,Cooijmans,Mixed,Untimed,Hot Months,156,1,1
+2019-04-12,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,QMC #5,136,Cooijmans,Verbal,Untimed,Hot Months,157,1,2
+2019-04-12,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RBMC 2008,142,Cooijmans,Mixed,Untimed,Hot Months,158,1,1
+2019-04-12,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,REASON 2008,162,Cooijmans,Logical,Untimed,Hot Months,159,1,5
+2019-04-19,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ALCHEMIST,134,Cooijmans,Mixed,Untimed,Hot Months,160,1,1
+2019-04-20,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PIGS2,133,Cooijmans,Mixed,Untimed,Hot Months,161,1,1
+2019-04-23,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GAT,144,Cooijmans,Verbal,Untimed,Hot Months,162,1,2
+2019-04-23,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ALT,146,Cooijmans,Mixed,Untimed,Hot Months,163,1,1
+2019-04-23,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OCTA40 - OCTAGON (S),158,IQexams,Spatial,Timed,Hot Months,164,4,4
+2019-04-26,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,DAEDALUS,147,Cooijmans,Logical,Untimed,Hot Months,165,1,5
+2019-04-26,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,LAB,150,Cooijmans,Mixed,Untimed,Hot Months,166,1,1
+2019-04-26,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,LIMIT,152,Cooijmans,Spatial,Untimed,Hot Months,167,1,4
+2019-04-29,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,QROSSWORDS,139,Cooijmans,Verbal,Untimed,Hot Months,168,1,2
+2019-04-29,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PAGAN,149,Cooijmans,Mixed,Untimed,Hot Months,169,1,1
+2019-05-01,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ILLUSION ,161,Dorsey,Spatial,Untimed,Hot Months,170,7,4
+2019-05-03,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,L33tus Test,152,Backlund,Spatial,Timed,Hot Months,171,5,4
+2019-05-14,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,SAN33 - Spatial And Numerical Test (M),163,IQexams,Mixed,Timed,Hot Months,172,4,1
+2019-06-01,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TOLR40 - Test Of Logical Relationships (M),132,IQexams,Mixed,Timed,Hot Months,173,4,1
+2019-06-12,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZCF2 - Zolly:s Culture Fair Intelligence Test II (S),148,IQexams,Spatial,Timed,Hot Months,174,4,4
+2019-06-12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,MATRIQ,151,Other,Mixed,Untimed,Hot Months,175,14,1
+2019-06-18,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZD Master,137,Backlund,Mixed,Timed,Hot Months,176,5,1
+2019-06-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PRO40 - Processor 40 Matrices (S),139,IQexams,Spatial,Timed,Hot Months,177,4,4
+2019-06-22,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,TetrastIQ Light by Gabriel Garofalo ,152,Other,Numerical,Untimed,Hot Months,178,14,3
+2019-06-24,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Alchemix,144,Betts,Verbal,Untimed,Hot Months,179,3,2
+2019-07-11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tetragram by Gabriel Garofalo ,147,Other,Verbal,Untimed,Hot Months,180,14,2
+2019-07-13,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bysl3x,149,Betts,Logical,Untimed,Hot Months,181,3,5
+2019-07-19,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ASMuDi,144,Dorsey,Numerical,Untimed,Hot Months,182,7,3
+2019-07-23,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Asterix ,155,Betts,Logical,Untimed,Hot Months,183,3,5
+2019-07-27,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,WIT ,158,Betts,Verbal,Untimed,Hot Months,184,3,2
+2019-07-29,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Lux25 ,150,Betts,Mixed,Untimed,Hot Months,185,3,1
+2019-07-30,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,IAW Raw score: 70/100 ,125,Jouve,Verbal,Untimed,Hot Months,186,9,2
+2019-07-30,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,JCCES Verbal score: 53 ,127,Jouve,Verbal,Untimed,Hot Months,187,9,2
+2019-07-30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,C09 – Xavier Jouve,132,Jouve,Mixed,Untimed,Hot Months,188,9,1
+2019-07-30,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,JCCES Raw score: 82 ,135,Jouve,Mixed,Untimed,Hot Months,189,9,1
+2019-07-30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,TRI52 ,146,Jouve,Spatial,Untimed,Hot Months,190,9,4
+2019-07-31,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Mathema ,150,Betts,Numerical,Untimed,Hot Months,191,3,3
+2019-07-31,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,TrueIQ calculation – Jason Betts,153,Betts,Mixed,Untimed,Hot Months,192,3,1
+2019-08-01,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Anumcha,148,Backlund,Numerical,Untimed,Hot Months,193,5,3
+2019-08-08,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,R4D32 - Reasoning in 4 Dimensions (M),128,IQexams,Mixed,Timed,Hot Months,194,4,1
+2019-08-09,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PIGS3,154,Cooijmans,Mixed,Untimed,Hot Months,195,1,1
+2019-08-14,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,DICING,135,Cooijmans,Mixed,Untimed,Hot Months,196,1,1
+2019-08-16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Gradus 3 Light – Tor Arne Torgerson,133,Other,Mixed,Untimed,Hot Months,197,14,1
+2019-08-19,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,NEMESIS,143,Cooijmans,Mixed,Untimed,Hot Months,198,1,1
+2019-08-28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Miller Analogies Test ,137,Other,Verbal,Timed,Hot Months,199,14,2
+2019-08-31,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Gradus 3 ,138,Other,Mixed,Untimed,Hot Months,200,14,1
+2019-09-02,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZDT33 - Zollys Dot Test (S),150,IQexams,Spatial,Timed,Hot Months,201,4,4
+2019-09-03,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,PRO40 - Processor 40 Matrices (S),147,IQexams,Spatial,Timed,Hot Months,202,4,4
+2019-09-03,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Spot ,156,Other,Mixed,Untimed,Hot Months,203,14,1
+2019-09-07,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Scout ,138,Other,Mixed,Untimed,Hot Months,204,14,1
+2019-09-14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,IVAC 2019 by Theodosis Prousalis ,141,Prousalis,Verbal,Untimed,Hot Months,205,11,2
+2019-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,MOM30 - Momentum (S),150,IQexams,Spatial,Timed,Hot Months,206,4,4
+2019-09-17,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HRRT38 - High Range Reasoning Test (S),155,IQexams,Spatial,Timed,Hot Months,207,4,4
+2019-09-20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,INSC 2019 by Theodosis Prousalis ,146,Prousalis,Numerical,Untimed,Hot Months,208,11,3
+2019-09-30,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZDTP33 - ZDT Pro Version (S),141,IQexams,Spatial,Timed,Hot Months,209,4,4
+2019-10-09,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,TUNE Test,152,Backlund,Numerical,Untimed,Cold Months,210,5,3
+2019-10-10,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZL Test,150,Backlund,Numerical,Untimed,Cold Months,211,5,3
+2019-10-14,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZD Legenda,152,Backlund,Mixed,Untimed,Cold Months,212,5,1
+2019-10-18,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Logic-Z,154,Backlund,Mixed,Untimed,Cold Months,213,5,1
+2019-11-12,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UN34 - UNION (V),150,IQexams,Verbal,Timed,Cold Months,214,4,2
+2019-11-26,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,WAIS IV (taken in 2019) : 123 sd 15 (117 SD 15 ,123,Other,Mixed,Timed,Cold Months,215,14,1
+2019-11-28,0,0,0,1,0,0,1,0,0,0,,0,1,0,0,0,0,0,0,0,0,0,X-10,142,Backlund,Numerical,Untimed,Cold Months,216,5,3
+2019-12-01,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,The Titan Test by Ronald Hoeflin 7/48 ,134,Other,Mixed,Untimed,Cold Months,217,14,1
+2019-12-03,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,GAIA by Naoki Kouda ,147,Other,Mixed,Untimed,Cold Months,218,14,1
+2019-12-22,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,THEOS Test,141,Backlund,Mixed,Untimed,Cold Months,219,5,1
+2019-12-30,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ISIS,133,Cooijmans,Mixed,Untimed,Cold Months,220,1,1
+2019-12-31,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Lda-SwaN,156.5,Other,Mixed,Untimed,Cold Months,221,14,1
+2020-01-14,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Speed by Ivec ,143,Ivec,Spatial,Untimed,Cold Months,222,2,4
+2020-02-12,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TOLR23 - Test Of Logical Relationships 2 (V),147,IQexams,Verbal,Timed,Cold Months,223,4,2
+2020-02-16,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ABS35 - ABSOLUTE (V),149,IQexams,Verbal,Timed,Cold Months,224,4,2
+2020-02-21,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,KAIS by Naoki Kouda ,142.6,Other,Spatial,Untimed,Cold Months,225,14,4
+2020-02-28,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Russian Doll Analogies Test,138,Other,Verbal,Untimed,Cold Months,226,14,2
+2020-03-01,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LIN60 - LINGUA (V),139,IQexams,Verbal,Timed,Cold Months,227,4,2
+2020-03-05,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PIPER,142,Cooijmans,Mixed,Untimed,Cold Months,228,1,1
+2020-03-09,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Replacement Riddles,161,Dorsey,Verbal,Untimed,Cold Months,229,7,2
+2020-03-16,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,LAT,139,Cooijmans,Mixed,Untimed,Cold Months,230,1,1
+2020-03-23,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CO33 - CORE (M),160,IQexams,Mixed,Timed,Cold Months,231,4,1
+2020-03-28,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GRAAT,132,Cooijmans,Verbal,Untimed,Cold Months,232,1,2
+2020-03-29,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GOLF2019,124,Cooijmans,Mixed,Untimed,Cold Months,233,1,1
+2020-03-29,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,GRA,133,Cooijmans,Verbal,Untimed,Cold Months,234,1,2
+2020-03-29,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,DLT,134,Cooijmans,Verbal,Untimed,Cold Months,235,1,2
+2020-04-02,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AX30 - ANALOGIX (V),150,IQexams,Verbal,Timed,Hot Months,236,4,2
+2020-04-14,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,ROSKAM,158,Cooijmans,Verbal,Untimed,Hot Months,237,1,2
+2020-04-15,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Zeus Test,151,Backlund,Mixed,Untimed,Hot Months,238,5,1
+2020-04-16,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VICE32 - Verbal Intelligence Cognitive Examination (V),160,IQexams,Verbal,Timed,Hot Months,239,4,2
+2020-04-19,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,TOIPR25 - Test of Interpretive Power (V),136,IQexams,Verbal,Timed,Hot Months,240,4,2
+2020-04-29,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Mathodica 22 by Mislav Predavec ,152,Predavec,Numerical,Untimed,Hot Months,241,8,3
+2020-05-02,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VAST32 - Verbal Ability Standardized Test (VAST) I (V),165,IQexams,Verbal,Timed,Hot Months,242,4,2
+2020-05-23,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,UN30 - UNITE (N),150,IQexams,Numerical,Timed,Hot Months,243,4,3
+2020-06-06,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,GFO36 - gFORCE (S),152,IQexams,Spatial,Timed,Hot Months,244,4,4
+2020-06-09,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,SITE30 - Spatial Intelligence Timed Examination (S),154,IQexams,Spatial,Timed,Hot Months,245,4,4
+2020-06-10,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Arcanum,143,Kutle,Verbal,Untimed,Hot Months,246,10,2
+2020-06-12,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Zolly Darko – AION Test,140,Backlund,Mixed,Untimed,Hot Months,247,5,1
+2020-06-14,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,PATMOS,130,Kutle,Verbal,Untimed,Hot Months,248,10,2
+2020-06-26,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,FIQURE,157,Other,Spatial,Untimed,Hot Months,249,14,4
+2020-07-02,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Anoteleia 44 by Mislav Predavec ,156.1,Predavec,Mixed,Untimed,Hot Months,250,8,1
+2020-07-03,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SLSE 48 14.5/48,147,Other,Numerical,Untimed,Hot Months,251,14,3
+2020-07-03,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,GENE Verbal I,156,Other,Verbal,Untimed,Hot Months,252,14,2
+2020-07-05,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Domagoj Kutle – Road to Damascus,130,Kutle,Verbal,Untimed,Hot Months,253,10,2
+2020-07-09,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,EZIQ,154,Betts,Mixed,Untimed,Hot Months,254,3,1
+2020-07-14,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,NUM4D - Numina4D (N),140,IQexams,Numerical,Untimed,Hot Months,255,4,3
+2020-07-23,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Nitish Joshi – Analytiq-50,182,Joshi,Numerical,Untimed,Hot Months,256,6,3
+2020-07-24,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,UC40 - Uncommonly Common IQ Test (V),143,IQexams,Verbal,Timed,Hot Months,257,4,2
+2020-07-31,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VIRS32 - Visual Items of RotationS (S),158,IQexams,Spatial,Timed,Hot Months,258,4,4
+2020-09-13,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EMQ23 - English MatrIQ (V),152,IQexams,Verbal,Timed,Hot Months,259,4,2
+2020-10-03,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,SQ30 - SQUARE (M),147,IQexams,Mixed,Timed,Cold Months,260,4,1
+2020-10-13,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZAM33 - Zollys Advanced Matrices (S),146,IQexams,Spatial,Timed,Cold Months,261,4,4
+2020-10-20,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,CamTor40 - Cambridge Tornado (S),151,IQexams,Spatial,Timed,Cold Months,262,4,4
+2020-11-04,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,DIVPS,153,Cooijmans,Mixed,Untimed,Cold Months,263,1,1
+2020-11-06,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ST2020 - STANDARD 2020 (S),164,IQexams,Spatial,Timed,Cold Months,264,4,4
+2020-11-14,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,XYZ Test,153,Backlund,Mixed,Untimed,Cold Months,265,5,1
+2021-01-02,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M1-30 - JasonIQTest-M1 (M),153,IQexams,Mixed,Timed,Cold Months,266,4,1
+2021-01-21,1,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,EZ-IQ test,150,Backlund,Numerical,Timed,Cold Months,267,5,3
+2021-01-25,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,NB2 - NUMBA2 (N),155,IQexams,Numerical,Timed,Cold Months,268,4,3
+2021-01-27,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZUT35 - Zolly Ultimate Test (S),144,IQexams,Spatial,Timed,Cold Months,269,4,4
+2021-03-02,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,WITTY,152,Betts,Verbal,Untimed,Cold Months,270,3,2
+2021-03-18,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,METEOR,160,Dorsey,Mixed,Untimed,Cold Months,271,7,1
+2021-05-10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,IGNITER,150,Dorsey,Mixed,Untimed,Hot Months,272,7,1
+2021-09-07,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,AT40 - Andre Gangviks Cognitive Test (S),141,IQexams,Spatial,Untimed,Hot Months,273,4,4
+2021-09-10,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Ephesus Test,150,Backlund,Mixed,Untimed,Hot Months,274,5,1
+2021-09-12,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M3X30 - Matrix-3x3 (S),150,IQexams,Spatial,Timed,Hot Months,275,4,4
+2021-09-22,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BP48 - Brainpower (S),155,IQexams,Spatial,Timed,Hot Months,276,4,4
+2021-12-23,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,ART,157,Dorsey,Mixed,Untimed,Cold Months,277,7,1
+2022-01-09,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,ATR48 - Andre Gangviks Cognitive Test -R (S),138,IQexams,Spatial,Timed,Cold Months,278,4,4
+2022-01-09,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VAT40 - Verbal Assessment Test (V),151,IQexams,Verbal,Timed,Cold Months,279,4,2
+2022-01-11,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VER31 - VERBIQ II (V),131,IQexams,Verbal,Timed,Cold Months,280,4,2
+2022-01-11,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,W30 - W-TEST (V),149,IQexams,Verbal,Timed,Cold Months,281,4,2
+2022-01-15,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,M3X30 - Matrix-3x3 (S),144,IQexams,Spatial,Timed,Cold Months,282,4,4
+2022-01-17,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Paxilux,141,Backlund,Mixed,Untimed,Cold Months,283,5,1
+2022-01-27,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,LAN-test,144,Backlund,Mixed,Untimed,Cold Months,284,5,1
+2022-01-28,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,VAST232 - Verbal Ability Standardized Test (VAST) II (V),161,IQexams,Verbal,Timed,Cold Months,285,4,2
+2022-01-31,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LDSE46 - Long Duration Spatial Exam (S),140,IQexams,Spatial,Timed,Cold Months,286,4,4
+2022-01-31,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,LEV30 - LEVITATE (V),156,IQexams,Verbal,Timed,Cold Months,287,4,2
+2022-02-06,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BS33 - Backspace (S),118,IQexams,Spatial,Timed,Cold Months,288,4,4
+2022-02-06,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Einplex by Ivec ,142.5,Ivec,Verbal,Untimed,Cold Months,289,2,2
+2022-02-13,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Zultima,152,Backlund,Mixed,Untimed,Cold Months,290,5,1
+2022-02-13,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Addagrams by Mateo Basille,164,Other,Verbal,Untimed,Cold Months,291,14,2
+2022-02-21,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZSI Test,150,Backlund,Spatial,Untimed,Cold Months,292,5,4
+2022-03-03,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RANDFEICKERY,150,Cooijmans,Mixed,Untimed,Cold Months,293,1,1
+2022-03-06,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,BS33 - Backspace (S),131,IQexams,Spatial,Timed,Cold Months,294,4,4
+2022-03-07,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Verllectual,138.5,Ivec,Verbal,Untimed,Cold Months,295,2,2
+2022-03-07,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vermentary Ivan Ivec,139,Ivec,Verbal,Untimed,Cold Months,296,2,2
+2022-03-07,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vercenthon,139,Ivec,Verbal,Untimed,Cold Months,297,2,2
+2022-03-07,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Gamma IQ Test,144,Backlund,Mixed,Untimed,Cold Months,298,5,1
+2022-03-09,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,XVLingua,140.5,Predavec,Verbal,Untimed,Cold Months,299,8,2
+2022-03-11,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Esoterica,131.3,Predavec,Spatial,Untimed,Cold Months,300,8,4
+2022-03-11,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,The Mega Test by Ronald Hoeflin 10/48 ,134,Other,Mixed,Untimed,Cold Months,301,14,1
+2022-03-14,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,COLOSSEUM,150,Dorsey,Mixed,Untimed,Cold Months,302,7,1
+2022-03-18,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Logan Smith – ICI,137,Other,Mixed,Untimed,Cold Months,303,14,1
+2022-03-19,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HgL38 - Hyper - g- Loaded (S),131,IQexams,Spatial,Timed,Cold Months,304,4,4
+2022-03-27,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Rhyming Riddles,162,Dorsey,Verbal,Untimed,Cold Months,305,7,2
+2022-03-30,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NuMax by Nitish Joshi,150,Joshi,Numerical,Untimed,Cold Months,306,6,3
+2022-04-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SAT (pre-1995),146,Other,Mixed,Timed,Hot Months,307,14,1
+2022-04-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,GENE Verbal II,156,Other,Verbal,Untimed,Hot Months,308,14,2
+2022-04-09,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Abstract Reasoning Test,132,Kutle,Spatial,Untimed,Hot Months,309,10,4
+2022-04-11,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Stratosphere QAI+VAI by EqusB,143,Other,Mixed,Timed,Hot Months,310,14,1
+2022-04-12,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Triplex Light by Ivec,132,Ivec,Numerical,Untimed,Hot Months,311,2,3
+2022-04-13,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,RELAX,144,Cooijmans,Mixed,Untimed,Hot Months,312,1,1
+2022-04-14,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Free FALL by Ivec,144,Ivec,Mixed,Untimed,Hot Months,313,2,1
+2022-04-27,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Triplex by Ivec,135,Ivec,Numerical,Untimed,Hot Months,314,2,3
+2022-05-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Raven’s I.Q. Test,140,Other,Spatial,Timed,Hot Months,315,14,4
+2022-05-05,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Hieroglyphica,122,Predavec,Verbal,Untimed,Hot Months,316,8,2
+2022-05-10,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Zolly’s Genius Test,140,Backlund,Mixed,Untimed,Hot Months,317,5,1
+2022-05-12,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,OMEGA,151,Other,Mixed,Untimed,Hot Months,318,14,1
+2022-05-23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,SERENDIPITY by Domagoj Kutle,150,Kutle,Mixed,Untimed,Hot Months,319,10,1
+2022-05-28,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,SPIRAL by James Dorsey,146,Dorsey,Spatial,Untimed,Hot Months,320,7,4
+2022-06-01,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Three Sonnets by Heinrich Siemens,134,Other,Verbal,Untimed,Hot Months,321,14,2
+2022-06-03,1,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ANG30 - ANGELIQ TEST (N),145,IQexams,Numerical,Timed,Hot Months,322,4,3
+2022-06-07,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,IDIOTS,154,Cooijmans,Mixed,Untimed,Hot Months,323,1,1
+2022-06-10,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,EVE38 - Exceptional Verbal Exam (V),161,IQexams,Verbal,Timed,Hot Months,324,4,2
+2022-06-20,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,LAIT,144,Other,Mixed,Untimed,Hot Months,325,14,1
+2022-07-16,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZDT3 - ZollyDotTest-3 (S),139,IQexams,Spatial,Timed,Hot Months,326,4,4
+2022-07-28,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,916,137.5,Other,Mixed,Untimed,Hot Months,327,14,1
+2022-08-13,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Concep-T,141.25,Other,Mixed,Untimed,Hot Months,328,14,1
+2022-08-28,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,AN25 by Nitish Joshi,164,Joshi,Numerical,Untimed,Hot Months,329,6,3
+2022-08-29,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Hexa ,148,Dorsey,Numerical,Untimed,Hot Months,330,7,3
+2022-08-31,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Verbathon by Nitish Joshi,157,Joshi,Verbal,Untimed,Hot Months,331,6,2
+2022-09-12,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Verbanum by Nitish Joshi,168,Joshi,Verbal,Untimed,Hot Months,332,6,2
+2022-09-22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Average score on old (pre-recentering) SAT from 1980s,144,Other,Mixed,Timed,Hot Months,333,14,1
+2022-10-10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,JCTI,128,Jouve,Spatial,Untimed,Cold Months,334,9,4
+2022-10-15,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Numerus Ultrafun by Ivec,140,Ivec,Numerical,Untimed,Cold Months,335,2,3
+2022-11-02,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HP32 - Honeypot (V),138,IQexams,Verbal,Timed,Cold Months,336,4,2
+2022-11-02,1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,EL27 - E.L.I.T. (M),145,IQexams,Mixed,Timed,Cold Months,337,4,1
+2022-11-03,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,The Pirate Test by Domagoj Kutle,90,Kutle,Verbal,Untimed,Cold Months,338,10,2
+2022-11-04,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Logica Verbalis by Prousalis,138,Prousalis,Verbal,Untimed,Cold Months,339,11,2
+2022-11-07,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tractacus Numericus by Prousalis,136,Prousalis,Numerical,Untimed,Cold Months,340,11,3
+2022-11-09,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,HQNC30 - Holistic Quantitation in a Nonverbal Context (S),136,IQexams,Spatial,Timed,Cold Months,341,4,4
+2022-11-09,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Levant,145,Kutle,Verbal,Untimed,Cold Months,342,10,2
+2022-11-09,1,0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,ZA40 - ZALPHANUM (N),150,IQexams,Numerical,Timed,Cold Months,343,4,3
+2022-11-15,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Raven's (36 questions),135.5189,Other,Spatial,Timed,Cold Months,344,14,4
+2022-11-15,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Raven's (48 questions),147.5,Other,Spatial,Timed,Cold Months,345,14,4
+2022-11-24,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,CAIT (reddit cognitivetesting group),134,Other,Mixed,Timed,Cold Months,346,14,1
+2022-11-27,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Elologics by Zolly Darko,145,Backlund,Mixed,Untimed,Cold Months,347,5,1
+2022-12-01,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Tractacus Numericus II by Prousalis,129,Prousalis,Numerical,Untimed,Cold Months,348,11,3
+2022-12-08,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,C-12 by Xavier Jouve ,127,Jouve,Mixed,Untimed,Cold Months,349,9,1
+2022-12-17,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Logica Verbalis II by Prousalis,134,Prousalis,Verbal,Untimed,Cold Months,350,11,2
+2022-12-27,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Numerus Light by Ivan Ivec,148.5,Ivec,Numerical,Untimed,Cold Months,351,2,3
+2023-01-04,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Ne Plus Ultra by EqusB on Reddit,141,Other,Verbal,Untimed,Cold Months,352,14,2
+2023-01-05,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Silent Spatial 40,146,Other,Spatial,Untimed,Cold Months,353,14,4
+2023-01-06,1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,OX3 - OX3 (Odd One Out test) (V),149,IQexams,Verbal,Timed,Cold Months,354,4,2
+2023-01-30,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Rising Riddles by James Dorsey,164,Dorsey,Verbal,Untimed,Cold Months,355,7,2
+2023-04-10,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,The Smell Test,154,Cooijmans,Mixed,Untimed,Hot Months,356,1,1
+2023-04-16,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Numba3,149,Backlund,Numerical,Timed,Hot Months,357,5,3
+2023-06-03,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Maximus,151,Backlund,Mixed,Timed,Hot Months,358,5,1
+2023-09-05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,IC23 (SAT50),132,Prousalis,Numerical,Untimed,Hot Months,359,11,3
+2023-09-05,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,IVAC23 (AT50),141,Prousalis,Verbal,Untimed,Hot Months,360,11,2
+2023-09-17,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,SPUTNIK,166,Backlund,Mixed,Timed,Hot Months,361,5,1
+2023-12-12,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,PIQTEST,151,Backlund,Mixed,Timed,Cold Months,362,5,1
+2024-02-18,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,XORUS test,141,Backlund,Mixed,Timed,Cold Months,363,5,1
+2024-02-18,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Mixed Logical Exam,157,Backlund,Logical,Timed,Cold Months,364,5,5
+2024-02-21,1,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Exceptional Verbal Exam,152,Backlund,Verbal,Timed,Cold Months,365,5,2
+2024-04-01,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,LOGOS by Alex Tolio,149,Other,Verbal,Untimed,Hot Months,366,14,2
+2024-04-14,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,S-C ULTRA,143,Other,Mixed,Timed,Hot Months,367,14,1
+2024-06-06,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,The Gate,155,Cooijmans,Mixed,Untimed,Hot Months,368,1,1
+2024-07-24,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,NUMBA IV,150,Backlund,Numerical,Timed,Hot Months,369,5,3
+2024-07-24,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ANALOGIC52 by Alex Tolio,154,Other,Verbal,Untimed,Hot Months,370,14,2
+2024-09-12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,VGT-F by Theodosis Prousalis,130,Prousalis,Verbal,Untimed,Hot Months,371,11,2
+2024-09-15,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,INSC 2024 by Prousalis,134,Prousalis,Numerical,Untimed,Hot Months,372,11,3
+2024-09-23,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,ANALOGICA30 By Alex Tolio,154,Other,Verbal,Untimed,Hot Months,373,14,2
+2024-09-25,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Wonderland Test by Matthew Scillitani,153,Scillitani,Verbal,Untimed,Hot Months,374,12,2
+2024-10-01,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Introgers by Scillitani,149,Scillitani,Numerical,Untimed,Cold Months,375,12,3
+2024-10-04,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,FAT by Scillitani,147,Scillitani,Verbal,Untimed,Cold Months,376,12,2
+2024-10-05,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NSL36 by Andrei Udriste,143,Udriste,Numerical,Untimed,Cold Months,377,13,3
+2024-10-05,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,MCA37 by Andrei Udriste,146,Udriste,Numerical,Untimed,Cold Months,378,13,3
+2024-10-05,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Echo Numbers by Scillitani,149,Scillitani,Numerical,Untimed,Cold Months,379,12,3
+2024-10-10,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,LRA by Theodosis Prousalis,151,Prousalis,Mixed,Untimed,Cold Months,380,11,1
+2024-10-15,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Check-IQ,137,Other,Mixed,Timed,Cold Months,381,14,1
+2024-11-08,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,LRN38 by Andrei Udriste,145,Udriste,Numerical,Untimed,Hot Months,382,13,3
+2024-11-15,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,LAPT by Zolly Darko,150,Backlund,Verbal,Untimed,Hot Months,383,5,2
+2024-11-18,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,AGCT-E,136,Other,Mixed,Timed,Hot Months,384,14,1
+2024-11-22,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,InFusion,151,Scillitani,Mixed,Untimed,Hot Months,385,12,1
+2024-11-22,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Figurines by Scillitani,156,Scillitani,Spatial,Untimed,Hot Months,386,12,4
+2024-11-27,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Cyfers by Scillitani,144,Scillitani,Numerical,Untimed,Hot Months,387,12,3
+2024-12-03,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,AGCT,135,Other,Mixed,Timed,Hot Months,388,14,1
+2024-12-03,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,JINA TEST by Camus Shaw,155,Other,Numerical,Untimed,Hot Months,389,14,3
+2024-12-03,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Eclipses by Scillitani,160,Scillitani,Spatial,Untimed,Hot Months,390,12,4
+2024-12-05,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,SMART,142,Other,Numerical,Timed,Hot Months,391,14,3
+2024-12-12,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Verbal Test of Pattern Recognition 26,155,Udriste,Verbal,Untimed,Hot Months,392,13,2
+2025-01-04,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Sigma Test Light,158.0,Other,Mixed,Untimed,Hot Months,393,14,1
+2025-01-28,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Sigma Test Extended,167.1,Other,Mixed,Untimed,Hot Months,394,14,1
+2025-03-26,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,g48,144,Other,Mixed,Timed,Hot Months,395,14,1
+2025-03-31,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Numeralica 35,150,Udriste,Numerical,Untimed,Hot Months,396,13,3
+2025-04-11,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Penumbra,150,Scillitani,Mixed,Untimed,Hot Months,397,12,1
+2025-04-20,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,SAT36 (Spatial Aptitude Assessment),154,Udriste,Spatial,Untimed,Hot Months,398,13,4
+2025-04-30,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,PIGS4,134,Cooijmans,Mixed,Untimed,Hot Months,399,1,1
+2025-05-07,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NSLII by Andrei Udriste,147,Udriste,Numerical,Untimed,Hot Months,400,13,3
+2025-05-08,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Sigma Test Fast ,128,Other,Mixed,Timed,Hot Months,401,14,1
+2025-06-10,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Nydegger Automatic Intelligence Test,156,Other,Mixed,Untimed,Hot Months,402,14,1
+2025-07-04,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Verbal Test of Pattern Recognition II,153,Udriste,Verbal,Untimed,Hot Months,403,13,2
+2025-07-14,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Morphic Verbal Associations,132,Udriste,Verbal,Untimed,Hot Months,404,13,2
+2025-07-27,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Last Associations Test 2025,143,Scillitani,Verbal,Untimed,Hot Months,405,12,2
+2025-08-05,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Analogicae Verborum Cryptica,132,Udriste,Verbal,Untimed,Hot Months,406,13,2
+2025-08-11,1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,ZYMBO IQ TEST,153,Backlund,Mixed,Timed,Hot Months,407,5,1
+2025-08-13,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Tutui R,134,Other,Logical,Untimed,Hot Months,408,14,5
+2025-08-27,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,AGCT 1-C,150,Other,Mixed,Timed,Hot Months,409,14,1
+2025-08-28,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Antjuan Finch Test,139,Other,Mixed,Timed,Hot Months,410,14,1
+2025-09-08,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,N-World (Mahir Wu),139,Other,Numerical,Untimed,Hot Months,411,14,3
+2025-09-11,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,IMAGE,156,Dorsey,Spatial,Untimed,Hot Months,412,7,4
+2025-09-11,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,PatLet,129,Dorsey,Verbal,Untimed,Hot Months,413,7,2
+2025-09-12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,EngNum,144,Dorsey,Numerical,Untimed,Hot Months,414,7,3
+2025-09-12,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Alliteration Analogies Assessment,162,Dorsey,Verbal,Untimed,Hot Months,415,7,2
